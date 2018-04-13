@@ -23,7 +23,7 @@ blockquote {
 }
 
 #photo-header{
-  margin-top: -75px;
+  /* margin-top: -75px; */
 }
 #photo{
   width: 160px;
@@ -54,7 +54,7 @@ blockquote {
 }
 #text-header h1 span{
   color: #334960;
-  opacity: 0.7;
+  opacity: 1.0;
 }
 #text-header h1 sup{
   opacity: 0.5;
@@ -72,7 +72,8 @@ blockquote {
   padding-bottom: 10px;
   margin-bottom: 25px;
 }
-.box h2{
+
+.box h2 {
   color: #227c74;
   font-size: 1.5em;
   font-weight: 700;
@@ -175,7 +176,7 @@ blockquote {
   font-weight: bold;
 }
 .job .year{
-  opacity: 0.7;
+  opacity: 1.0B;
 }
 .job .profession{
   font-size: 1.2em;
@@ -200,7 +201,7 @@ blockquote {
   font-weight: bold;
 }
 .publication .year{
-    opacity: 0.7;
+    opacity: 1.0;
 }
 .publication p{
   margin: 0;
@@ -225,7 +226,7 @@ blockquote {
   width: 80%;
   width: calc(100% - 55px);
   font-weight: 700;
-  opacity: 0.9;
+  opacity: 1.0;
 }
 .contact-item .title.only{
   margin-top: 10px;
